@@ -1,5 +1,6 @@
 ## Features
 
+
 - **User Authentication** - Secure login and signup with role-based access (regular users and VHT workers)
 - **Personalized Onboarding** - Collect user health data, dietary preferences, and nutrition goals
 - **Nutrition Chat** - AI-powered chatbot for personalized nutrition advice and recommendations
